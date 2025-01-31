@@ -22,7 +22,7 @@ nav {
 .nav__logo {
     width: 3.5rem;
     border-radius: 50%;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .nav__menu {
