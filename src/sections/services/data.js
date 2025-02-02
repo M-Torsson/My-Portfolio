@@ -15,7 +15,7 @@ const data = [
         id: 3, icon: <FaServer/>, title: 'Backend Development', desc: "The security of your business/product is taken seriously right from the start of the project. I will make sure your website/app is secure from attacks."
     },
     {
-        id: 4, icon: <AiFillAppstore/>, title: 'App Development', desc: 'Unlike other developers in the market, I will building an app that runs on both Desktop (EXE) and Android devices without any extra cost to you.'
+        id: 4, icon: <AiFillAppstore/>, title: 'App Development', desc: 'Unlike other developers in the market, I will building an app that runs on both Desktop and Android devices without any extra cost to you.'
     }
 ]
 

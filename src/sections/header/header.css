@@ -1,24 +1,11 @@
-
 header {
-    margin-top: 1rem;
+    margin-top: 5rem;
     height: calc(100vh - 5rem);
     display: grid;
     place-items: center;
     background: var(--color-white);
     transition: var(--transition);
 }
-
-.header__profile {
-    height: fit-content;
-    max-height: 40rem;
-    border: 1rem solid #e8e7e8    ;
-    transition: var(--transition); 
-}
-
-.header__profile:hover {
-    border-width: 0;
-}
-
 
 .header__container {
     display: flex;
@@ -28,15 +15,15 @@ header {
 }
 
 .header__profile {
-    width: 30rem;
-    height: 35rem;
+    width: 25rem;
+    height: 30rem;
     border-radius: 9rem 9rem 2rem 2rem;
     overflow: hidden;
-    margin-bottom: 2.5rem;
+    margin-bottom: 1.5rem;
 }
 
 .header__container p {
-    width: 40rem;
+    width: 35rem;
     text-align: center;
     margin: 0.6rem 0 2rem;
 }
@@ -44,7 +31,7 @@ header {
 .header__cta {
     display: flex;
     align-items: center;
-    gap: 2.2rem;
+    gap: 1.2rem;
 }
 
 .header__socials {
@@ -57,7 +44,7 @@ header {
 }
 
 .header__socials a {
-    width: 2.5rem;
+    width: 1.8rem;
     aspect-ratio: 1/1;
     background: var(--color-light);
     color: var(--color-black);
@@ -72,6 +59,7 @@ header {
     transform: translateX(-0.5rem);
 }
 
+
 /* MEDIA QUERIES (tablets) */
 @media screen and (max-width: 1024px) {
     header {
@@ -80,7 +68,8 @@ header {
     }
 }
 
-/* MEDIA QUERIES (phones) */
+
+/* MEDIA QUERIES (tablets) */
 @media screen and (max-width: 600px) {
     .header__profile {
         width: 14rem;
@@ -96,7 +85,7 @@ header {
     .header__cta {
         gap: 1rem;
     }
-    
+
     .header__socials {
         display: none;
     }

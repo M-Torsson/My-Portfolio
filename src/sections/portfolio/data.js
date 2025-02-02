@@ -13,82 +13,82 @@ const data = [
         id: 1,
         category: 'uiux',
         image: Image1,
-        title: "Project Title One (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "Introduction to Programming (UIUX)",
+        desc: "I created this program to introduce beginners to coding while focusing on building interactive and user-friendly UI/UX designs.",
+        demo: '',
+        github: 'https://github.com/'
     },
     {
         id: 2,
         category: 'frontend',
         image: Image2,
-        title: "Project Title Two (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "Journey in Data Analysis (Frontend)",
+        desc: "I created this program to introduce beginners to coding, focusing on data analysis and frontend development to build interactive and insightful applications.",
+        demo: '',
+        github: 'https://github.com/'
     },
     {
         id: 3,
         category: 'frontend',
         image: Image3,
-        title: "Project Title Three (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "Computer Security Threats (Frontend)",
+        desc: "This project highlights key security threats in frontend development, such as XSS and SQL injection, while providing best practices to enhance web application security.!",
+        demo: '',
+        github: 'https://github.com/'
     },
     {
         id: 4,
         category: 'uiux',
         image: Image4,
-        title: "Project Title Four (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
+        title: "My Portfolio Project (UIUX)",
+        desc: "This project showcases my skills in UI/UX design, featuring interactive and user-friendly interfaces that prioritize aesthetics and usability.",
+        demo: '',
         github: 'https://github.com/M-Torsson/My-Portfolio'
     },
     {
         id: 5,
         category: 'uiux',
         image: Image5,
-        title: "Project Title Five (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "PAC-RUNNER – My Python Game (UIUX)",
+        desc: "PAC-RUNNER is a Python game I developed, combining engaging gameplay with intuitive UI/UX design to create a smooth and immersive player experience. ",
+        demo: '',
+        github: 'https://github.com/'
     },
     {
         id: 6,
         category: 'frontend',
         image: Image6,
-        title: "Project Title Six (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "Programming Website (Frontend)",
+        desc: "I created this website to showcase my frontend development skills, focusing on responsive design, interactive UI, and a seamless user experience.",
+        demo: '',
+        github: 'https://github.com/'
     },
     {
         id: 7,
         category: 'frontend',
         image: Image7,
-        title: "Project Title Seven (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/M-Torsson/Pac-Runner.-Game'
+        title: "Technology Website (Frontend)",
+        desc: "I developed this website to present the latest in technology, featuring a modern, responsive design with an intuitive and engaging user experience.",
+        demo: '',
+        github: 'https://github.com/'
     },
     {
         id: 8,
         category: 'backend',
         image: Image8,
-        title: "Project Title Eight (Backend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "Project Relax (Backend)",
+        desc: "I developed this project website with a strong backend foundation, ensuring seamless performance, security, and scalability to support business growth efficiently.",
+        demo: '',
+        github: 'https://github.com/'
     },
     {
         id: 9,
         category: 'frontend',
         image: Image9,
-        title: "Project Title Nine (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "Business Management Website (Frontend)",
+        desc: "I built this project website with a focus on intuitive and responsive frontend design, making business management seamless and efficient.",
+        demo: '',
+        github: 'https://github.com/'
     }
 ]
 

@@ -8,7 +8,7 @@ const Services = () => {
       <h2>My Services</h2>
       <p>I design modern websites, build Python-based tools, 
         and automate workflows to bring your ideas to life.</p>
-        <div className="container services__container">
+        <div className="container services__container" data-aos="fade-up">
           {
             data.map(item => (
               <Card key={item.id} className="service light">
